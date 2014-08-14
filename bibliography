@@ -1,0 +1,33 @@
+Materials Referenced
+
+American Radio Relay League (2014). The ARRL Handbook For Radio Communications: 2014. Newington CT: ARRL  
+  Chapter 16: Digital Modes, Chapter 19: Propagation of Radio Signals
+  
+American Radio Relay League. “Part 97 Text.” arrl.org Accessed : 18 March 2014, 5 June 2014 http://www.arrl.org/part-97-text
+
+Taylor, Joseph. “The JT65 Communications Protocol” Accessed November 2013 http://www.arrl.org/files/file/18JT65.pdf
+
+Taylor, Joseph. “WSJT Developers Guide” Accessed :May 2014 http://www.physics.princeton.edu/pulsar/K1JT/wsjtx-doc/wsjt-dev-guide.html 
+
+Taylor, Joseph. “WSJT Program Development” Accessed :May 2014 http://www.physics.princeton.edu/pulsar/K1JT/devel.html
+
+GNU Radio. “gnuradio/gr-fec/lib/reed-solomon.”  Github.com Accessed : May 26, 2014 https://github.com/gnuradio/gnuradio/tree/master/gr-fec/lib/reed-solomon
+
+Hanzlik, Peter. “Steganography in Reed-Solomon Codes” 2011 Accessed : November 2013 https://pure.ltu.se/portal/files/33042873/LTU-EX-2011-32953379.pdf
+
+Airchat. “lulzlabs/AirChat” Github.com Accessed: May 29, 2014 https://github.com/lulzlabs/AirChat
+
+"Reed-Solomon error correction" Wikipedia.com Accessed: November 2013 https://en.wikipedia.org/wiki/Reed%E2%80%93Solomon_error_correction
+
+"Maidenhead Locator System" Wikipedia.com Accessed: June 5, 2014 https://en.wikipedia.org/wiki/Maidenhead_Locator_System
+
+"DEA NSA SANDKEY" cryptomeorg.siteprotect.net Accessed: June 20, 2014 http://cryptomeorg.siteprotect.net/dea-nsa-sandkey.pdf
+
+"Private Line Service for High Frequency Direction Finding Facilities" fcc.gov Accessed: June 20, 2014 http://transition.fcc.gov/omd/contracts/pre-award/RFQ11000024.pdf
+
+"WAV recording functionality using pyaudio" Github.com Accessed: May 2014 https://gist.github.com/sloria/5693955
+
+Westfeld, Andreas “Steganography for Radio Amateurs— A DSSS Based Approach for Slow Scan
+Television” Accessed: May 2014 http://www2.htw-dresden.de/~westfeld/publikationen/westfeld.ihw06.pdf 
+
+"PSK Automatic Propagation Rerporter" http://pskreporter.info/
