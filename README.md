@@ -1,4 +1,4 @@
 DEFCON22_HF_Steganography
 =========================
 
-pdogg and thedukezip DEF CON 22 presentation materials
+ presentation materials from pdogg and thedukezip's DEF CON 22 talk on Steganography in Commonly Used HF Radio Protocols
